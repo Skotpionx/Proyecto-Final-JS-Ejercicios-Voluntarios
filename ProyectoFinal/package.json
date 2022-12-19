@@ -1,0 +1,9 @@
+{
+    "name": "juanmi",
+    "description": "Proyecto Final",
+    "version": "1.0.0",
+    "main": "/js/js.js",
+    "scripts":{
+        "start": "json-server --watch ./db/db.json --port 4000"
+    }
+}
